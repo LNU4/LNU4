@@ -1,4 +1,4 @@
-## Hi there 👋 I'm [Nasser]!
+## Hi there 👋 I'm Nasser!
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for creating dynamic and engaging web applications. Here’s a bit about me:
 
