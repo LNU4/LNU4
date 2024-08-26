@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 - I’m looking to collaborate on projects that challenge my skills and creativity.
 - I’m seeking help with advanced **PHP** <span style="color: #4F5B93;">●</span> techniques and best practices.
 - You can reach me at: [My LinkedIn](https://www.linkedin.com/in/nasser-al-obaedi-057510324/)
-- Fun fact: I once tried to debug a program for 3 hours, only to realize it missing a file! 😅
+- Fun fact: I once tried to debug a program for 3 hours, only to realize it was missing a file! 😅
 
 ### Technologies & Tools
 - **Languages**: 
