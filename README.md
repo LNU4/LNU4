@@ -12,19 +12,20 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ### Technologies & Tools
 - **Languages**: 
-  - JavaScript <span style="color: yellow;">●</span>
-  - JavaScript (ES5) <span style="color: yellow;">●</span>
-  - JavaScript (ES6) <span style="color: green;">●</span>
-  - PHP <span style="color: #4F5B93;">●</span>
+  - JavaScript
+  - JavaScript (ES5) 
+  - JavaScript (ES6) 
+  - PHP 
+  - C#
 - **Frameworks**: 
-  - React <span style="color: #61DAFB;">●</span> (Still figuring it out!)
-  - Express <span style="color: #000000;">●</span>
-  - Laravel <span style="color: #FF2D55;">●</span> (Learning the ropes!)
-  - Vue.js <span style="color: #42B883;">●</span> (Just getting started!)
+  - React 
+  - Express 
+  - Laravel 
+  - Vue.js
 - **Design Tools**: 
-  - Photoshop <span style="color: #26C6DA;">●</span>
-  - Adobe XD <span style="color: #FF6F20;">●</span>
-  - Adobe Illustrator <span style="color: #FF3D00;">●</span>
+  - Photoshop 
+  - Adobe XD
+  - Adobe Illustrator 
 
 ### GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=LNU4&show_icons=true&theme=radical)
