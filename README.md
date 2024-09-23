@@ -3,10 +3,8 @@
 Welcome to my GitHub profile! I'm a passionate developer with a love for creating dynamic and engaging web applications. Here’s a bit about me:
 
 ### About Me
-- I’m currently working on exciting projects using **JavaScript** and **React**.
-- I’m learning more about **Express**  and **Laravel** to enhance my backend skills.
-- I’m looking to collaborate on projects that challenge my skills and creativity.
-- I’m seeking help with advanced **PHP** <span style="color: #4F5B93;">●</span> techniques and best practices.
+- I’m currently working on exciting projects using **PYTHON "Flask"** and **React**.
+
 - You can reach me at: [My LinkedIn](https://www.linkedin.com/in/nasser-al-obaedi-057510324/)
 
 
@@ -22,6 +20,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
   - Express 
   - Laravel 
   - Vue.js
+  - .NET
 - **Design Tools**: 
   - Photoshop 
   - Adobe XD
