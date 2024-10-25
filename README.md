@@ -11,8 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 ### Technologies & Tools
 - **Languages**: 
   - JavaScript
-  - JavaScript (ES5) 
-  - JavaScript (ES6) 
+  - JavaScript OOP
   - PHP 
   - C#
 - **Frameworks**: 
