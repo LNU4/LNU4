@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate developer with a love for creating dynamic and engaging web applications. Here’s a bit about me:
 
 ### About Me
-- I’m currently working on exciting projects using **PYTHON "FastAPI"** and **React**.
+- I’m currently working on exciting projects using **PYTHON "FastAPI"**.
 
 - You can reach me at: [My LinkedIn](https://www.linkedin.com/in/nasser-al-obaedi-057510324/)
 
