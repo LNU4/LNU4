@@ -14,12 +14,15 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
   - JavaScript OOP
   - PHP 
   - C#
+  - Python
 - **Frameworks**: 
   - React 
   - Express 
   - Laravel 
   - Vue.js
   - .NET
+  - Flask
+  - FastAPI
 - **Design Tools**: 
   - Photoshop 
   - Adobe XD
