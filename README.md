@@ -28,7 +28,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
   - Adobe XD
   - Adobe Illustrator 
 
-### GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=LNU4&show_icons=true&theme=radical)
+
 
 Feel free to explore my repositories and reach out if you’d like to connect or collaborate!!
