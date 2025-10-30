@@ -4,7 +4,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ### About me
 - I’m currently working on exciting projects using **PYTHON "FastAPI"**.
-
 - You can reach me at: [My LinkedIn](https://www.linkedin.com/in/nasser-al-obaedi-057510324/)
 
 
