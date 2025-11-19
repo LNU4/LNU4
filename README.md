@@ -10,9 +10,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 ### Technologies & Tools
 - **Languages**: 
   - Javascript
+  - Typescript
   - PHP
   - C#
   - Python
+  - Java
 - **Frameworks**: 
   - React 
   - Express 
