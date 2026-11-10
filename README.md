@@ -29,4 +29,4 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 
 
-Feel free to explore my repositories and reach out if you’d like to connect or collaborate!!
+Feel free to explore my repositories and reach out if you’d like to connect!!
